@@ -1,10 +1,14 @@
 
-*** Predicting income brackets
+### Predicting income brackets
 
-Data: Income data from the UCI ML Repository
+Data: Income data from the UCI ML Repository  
 Techniques: Classification, random forest
 
-Here I build quick models (using sklearn and H2O) to determine income bracket from imbalanced data- the income levels are binned at below 50k and above 50k.
+For this project I build quick models (using sklearn and H2O) to determine income bracket from imbalanced data- the income levels are binned at below 50k and above 50k.
+
+Documents:  
+preprocessing.py contains functions for preprocessing data  
+IncomeBrackets.ipynb contains the workflow
 
 ---
 
